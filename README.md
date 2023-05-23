@@ -12,9 +12,9 @@ src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/kkevinoti2018/instagram_clone)
 
-- 🌱 I’m currently learning **Node, React, Express, Machine learning, Mongo db**
+- 🌱 I’m currently learning **Node, Express , Angular, Microsoft Sql Server**
 
-- 💬 Ask me about **React, Node , Express , Data structures and algorithms**
+- 💬 Ask me about **React, Node , Express, Angular, Microsoft Sql Server , Data structures and algorithms**
 
 - 📫 How to reach me **kelvinotix@gmail.com**
 
