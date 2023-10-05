@@ -1,6 +1,6 @@
 [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)]
 <h1 align="center">Hi 👋, I'm Kevin Otieno</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Kenya</h3>
 <img 
 align='right'
 alt='coding'
@@ -12,7 +12,7 @@ src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/kkevinoti2018/instagram_clone)
 
-- 🌱 I’m currently learning **Node, Express , Angular, Microsoft Sql Server**
+- 🌱 I’m currently learning **Node, Express , Angular, Microsoft Sql Server C# **
 
 - 💬 Ask me about **React, Node , Express, Angular, Microsoft Sql Server , Data structures and algorithms**
 
