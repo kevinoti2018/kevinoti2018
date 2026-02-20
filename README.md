@@ -27,7 +27,7 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="mailto:kelvinotix7@gmail.com" target="blank">
+  <a href="mailto:kelvinotix@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40"/>
   </a>
   <a href="https://kaggle.com/profesawacaptions" target="blank">
