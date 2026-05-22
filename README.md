@@ -20,7 +20,7 @@
 - 🔭 I'm currently working on **[Affirmly](https://affirmly.site)** — an AI-powered affirmation scheduling platform
 - 🌱 I'm currently deepening my knowledge in **system design, AI integration, and distributed scheduling**
 - 💬 Ask me about **Next.js, TypeScript, Prisma, PostgreSQL, REST APIs, and building production-ready full-stack apps**
-- 📫 Reach me at **kelvinotix7@gmail.com**
+- 📫 Reach me at **kelvinotix@gmail.com**
 - ⚡ Fun fact — **I enjoy turning complex problems into clean, elegant systems**
 
 ---
